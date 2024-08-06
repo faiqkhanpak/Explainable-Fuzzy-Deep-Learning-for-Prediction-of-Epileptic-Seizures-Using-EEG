@@ -1,2 +1,2 @@
-# FaiqAhmadKhan.github.io
+# Faiq Ahmad Khan
 Profile
