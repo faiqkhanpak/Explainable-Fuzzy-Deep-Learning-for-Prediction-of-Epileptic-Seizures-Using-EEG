@@ -2,7 +2,7 @@
 The attached code is the implementation of deep fuzzy network from the paper titled "Explainable fuzzy deep learning for prediction of epileptic seizures using EEG". It includes the deep fuzzy network and LIME implementations.  
 # Disclaimer
  If you are using this code or a part of this code, make sure you cite the paper it is taken from, which is mentioned below.
-#link to the paper [Link](https://ieeexplore.ieee.org/abstract/document/10613429).
+# link to the paper [Link](https://ieeexplore.ieee.org/abstract/document/10613429).
 # To Cite this work:
 ## Latex/ bibTex: 
 > @article{khan2024explainable,
